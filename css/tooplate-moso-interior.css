@@ -477,7 +477,7 @@ strong {
   transition: top 300ms 350ms ease, -webkit-transform 300ms 50ms ease;
   transition: top 300ms 350ms ease, transform 300ms 50ms ease;
   transition: top 300ms 350ms ease, transform 300ms 50ms ease, -webkit-transform 300ms 50ms ease;
-  position: absolute;
+  position: relative;
   right: 0;
   left: 0;
   background: var(--dark-color);
