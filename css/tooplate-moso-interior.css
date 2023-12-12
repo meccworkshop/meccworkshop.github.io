@@ -232,7 +232,7 @@ strong {
   CUSTOM LINK               
 -----------------------------------------*/
 .custom-link {
-  color: var(--p-color);
+  color: var(--secondary-color);
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -262,12 +262,9 @@ strong {
 }
 
 .custom-link:hover {
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
-.custom-link:hover::after {
-  background: var(--custom-btn-bg-color);
-}
 
 
 /*---------------------------------------
