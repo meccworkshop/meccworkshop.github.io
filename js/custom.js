@@ -5,9 +5,9 @@
 
     // HERO SLIDE
     $('.hero-slide').backstretch([
-      "images/slideshow/athens2.jpg",
-      "images/slideshow/syntagma2.jpg",
-      "images/slideshow/agora.jpg",
+      "images/slideshow/market2.jpg",
+      "images/slideshow/roof2.jpg",
+      "images/slideshow/night.jpg",
     ],  {duration: 2000, fade: 750});
 
     // REVIEWS CAROUSEL
