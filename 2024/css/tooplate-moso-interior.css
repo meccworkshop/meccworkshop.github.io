@@ -994,10 +994,13 @@ strong {
 }
 
 
+
+
 /*---------------------------------------
   RESPONSIVE STYLES               
 -----------------------------------------*/
 @media screen and (max-width: 991px) {
+  
   h1 {
     font-size: 48px;
   }
